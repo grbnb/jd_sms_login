@@ -1,6 +1,6 @@
 
+<img src = 'https://s3.bmp.ovh/imgs/2022/03/f590b219225ad98a.png' />
 
-## 根据 [grbnb/jd_sms_login](https://github.com/grbnb/jd_sms_login) 仓库构建的一个快应用自动登陆镜像
 
 ### 容器安装：
 ```
