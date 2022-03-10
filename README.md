@@ -15,7 +15,7 @@
 docker run -d --name jd_sms -p 6789:6789 grbhq/jd_sms_login:latest
 ```
 
-# 此处为历史旧分支，不会同步更新，仅做必要声明和用于同步更新源仓库到`主分支`[master](https://github.com/grbnb/jd_sms_login/tree/master)
+# 此处为历史旧分支【docker仓库1.0镜像文件】，不会同步更新，仅做必要声明和用于同步更新源仓库到`主分支`[master](https://github.com/grbnb/jd_sms_login/tree/master)
 
 # 查看最新同步请切换到 [主分支 master](https://github.com/grbnb/jd_sms_login/tree/master) 此分支不会同步源仓库！！！
 
