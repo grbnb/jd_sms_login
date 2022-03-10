@@ -10,15 +10,14 @@
 <img src = 'https://s3.bmp.ovh/imgs/2022/03/f590b219225ad98a.png' />
 
 
-### 容器安装：
+## 容器安装：
 ```
 docker run -d --name jd_sms -p 6789:6789 grbhq/jd_sms_login:latest
 ```
 
-# 此处为历史旧分支，并用于同步更新源仓库到`主分支`[master](https://github.com/grbnb/jd_sms_login/tree/master)
+# 此处为历史旧分支，不会同步更新，仅做安装说明并用于同步更新源仓库到`主分支`[master](https://github.com/grbnb/jd_sms_login/tree/master)
 
-# 查看最新同步请点击 [主分支 master](https://github.com/grbnb/jd_sms_login/tree/master) 此分支不会同步源仓库！！！
+# 查看最新同步请切换到 [主分支 master](https://github.com/grbnb/jd_sms_login/tree/master) 此分支不会同步源仓库！！！
 
-# 通过reposync方式进行代码同步到主分支
 
 
