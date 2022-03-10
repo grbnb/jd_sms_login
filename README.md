@@ -16,7 +16,7 @@ docker run -d --name jd_sms -p 6789:6789 grbhq/jd_sms_login:latest
 ```
 
 
-# 主分支 [master](https://github.com/grbnb/jd_sms_login/tree/master)
+# 主分支 [master](https://github.com/grbnb/jd_sms_login/tree/master) 用于同步更新源仓库
 
 # 通过reposync方式进行代码同步到主分支
 
