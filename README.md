@@ -19,5 +19,4 @@ docker run -d --name jd_sms -p 6789:6789 grbhq/jd_sms_login:latest
 
 # 查看最新同步请切换到 [主分支 master](https://github.com/grbnb/jd_sms_login/tree/master) 此分支不会同步源仓库！！！
 
-## 源仓库地址：https://github.com/Xiao233-q/jd_sms_login
 
